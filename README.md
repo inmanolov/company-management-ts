@@ -5,7 +5,7 @@ Simple company teams and employees management app.
 
 https://company-employees-management.vercel.app/
 
-Keep in mind backend is on render free version and it goes to sleep mode after 15 minutes of inactivify, so just wait for a few seconds!
+Keep in mind backend is on render free version and it goes to sleep mode after 15 minutes of inactivity, so just wait for a few seconds!
 
 ## To run localy:
 
